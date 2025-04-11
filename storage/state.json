@@ -1,0 +1,15 @@
+{
+  "cookies": [
+    {
+      "name": "DOLSESSID_3f8d8b7d6b0ca5a85a3c509f4a9da512486b3983",
+      "value": "sfep484fhhb3dglrfj3r0b6g6b",
+      "domain": "demo.dolibarr.org",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}

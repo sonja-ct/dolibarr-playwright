@@ -1,0 +1,15 @@
+{
+  "name": "dolibarr-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.14.0",
+    "allure-playwright": "^3.2.1",
+    "prettier": "^3.5.3"
+  }
+}
